@@ -366,9 +366,51 @@
               "icon": "lucide-file",
               "title": "39 - Scavenger Huntd"
             }
+          },
+          {
+            "id": "3cfb47b46938ce0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40 - Irish-Name-Repo 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "40 - Irish-Name-Repo 1"
+            }
+          },
+          {
+            "id": "5c63674db0a457de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "41 - More SQLi.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "41 - More SQLi"
+            }
+          },
+          {
+            "id": "76662077426c2160",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40 - Irish-Name-Repo 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "40 - Irish-Name-Repo 1"
+            }
           }
         ],
-        "currentTab": 25
+        "currentTab": 28
       }
     ],
     "direction": "vertical"
@@ -516,8 +558,16 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "89273fad1b85252c",
+  "active": "76662077426c2160",
   "lastOpenFiles": [
+    "Pasted image 20250331130823.png",
+    "42 - JaWT Scratchpad.md",
+    "41 - More SQLi.md",
+    "40 - Irish-Name-Repo 1.md",
+    "Pasted image 20250331123608.png",
+    "Pasted image 20250331123136.png",
+    "Pasted image 20250331122928.png",
+    "39 - Scavenger Huntd.md",
     "Pasted image 20250326131926.png",
     "Pasted image 20250326131858.png",
     "Pasted image 20250326131633.png",
@@ -526,17 +576,12 @@
     "38 - Cookies.md",
     "Pasted image 20250326130420.png",
     "Pasted image 20250326130358.png",
-    "39 - Scavenger Huntd.md",
     "37 - GET aHEAD.md",
     "Sin nombre",
-    "Pasted image 20250324132003.png",
     "35 - picobrowser.md",
     "36 - Client-side-again.md",
-    "Pasted image 20250324130649.png",
     "34 - dont-use-client-side.md",
-    "Pasted image 20250324125249.png",
     "33 - logon.md",
-    "Pasted image 20250324122614.png",
     "32 - where are the robots.md",
     "31 - Insp3ct0r.md",
     "picoCTF/General Skills/Tarea 1 - General Skills/10 - ASCII Numbers.md",
@@ -552,9 +597,6 @@
     "19 - Big zip.md",
     "20 - First Find.md",
     "Sin título.md",
-    "picoCTF/General Skills/Tarea 1 - General Skills/05 - time machine.md",
-    "30 - Serpentine.md",
-    "picoCTF/General Skills/Tarea 1 - General Skills/04 - Commitment Issues.md",
     "picoCTF/General Skills/Tarea 1 - General Skills",
     "Sin título.canvas",
     "04",
