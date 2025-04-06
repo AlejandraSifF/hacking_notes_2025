@@ -4,413 +4,137 @@
     "type": "split",
     "children": [
       {
-        "id": "27804ed249a3c275",
+        "id": "fe84b71a4be6efc2",
         "type": "tabs",
         "children": [
           {
-            "id": "c2c18d10a57f9531",
+            "id": "9eaabe3f0c28cdbe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20 - First Find.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "20 - First Find"
-            }
-          },
-          {
-            "id": "90251469dad85925",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "21 - Super SSH.md",
+                "file": "48 - Inspect HTML.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "21 - Super SSH"
+              "title": "48 - Inspect HTML"
             }
           },
           {
-            "id": "2dab4e9cf315a2b6",
+            "id": "8852532d3aa5070a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "22 - runme.py.md",
+                "file": "49 - IntroToBurp.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "22 - runme.py"
+              "title": "49 - IntroToBurp"
             }
           },
           {
-            "id": "7dc5079caa5262fb",
+            "id": "b0319844a14bcf3d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "23 - Codebook.md",
+                "file": "50 - Local Authority.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "23 - Codebook"
+              "title": "50 - Local Authority"
             }
           },
           {
-            "id": "a7300894d6f87ac4",
+            "id": "3097bfdacabe3911",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "24 - convertme.py.md",
+                "file": "51 - Power Cookie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "24 - convertme.py"
+              "title": "51 - Power Cookie"
             }
           },
           {
-            "id": "aedc13a3a7b8a678",
+            "id": "89ab0f5d4403268e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "25 - fixme1.py.md",
+                "file": "52 - Roboto Sans.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "25 - fixme1.py"
+              "title": "52 - Roboto Sans"
             }
           },
           {
-            "id": "1e8823a9789b8e47",
+            "id": "8e032151567069b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "26 - fixme2.py.md",
+                "file": "53 - Secrets.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "26 - fixme2.py"
+              "title": "53 - Secrets"
             }
           },
           {
-            "id": "3e60b05a7174d12f",
+            "id": "2d60d4b35b5d67d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "27 - PW Crack 1.md",
+                "file": "54 - SQLiLite.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "27 - PW Crack 1"
+              "title": "54 - SQLiLite"
             }
           },
           {
-            "id": "fd8962b18f1aaf16",
+            "id": "3ec90417fd8fdd21",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "28 - PW Crack 2.md",
+                "file": "55 - Unminify.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "28 - PW Crack 2"
+              "title": "55 - Unminify"
             }
           },
           {
-            "id": "d2ef1c664431c325",
+            "id": "bfb59d17c71ea8b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "29 - PW Crack 3.md",
+                "file": "56  - WebDecode.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "29 - PW Crack 3"
-            }
-          },
-          {
-            "id": "04d049a0e0f68dee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "30 - Serpentine.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "30 - Serpentine"
-            }
-          },
-          {
-            "id": "a1dd0c57f1359ff7",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.7"
-            }
-          },
-          {
-            "id": "358d1ad693679c41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/General Skills/Tarea 1 - General Skills/01 - permissions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01 - permissions"
-            }
-          },
-          {
-            "id": "3662f4967325e6e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/General Skills/Tarea 1 - General Skills/01 - permissions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01 - permissions"
-            }
-          },
-          {
-            "id": "1ce276d41680747c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/General Skills/Tarea 1 - General Skills/05 - time machine.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "05 - time machine"
-            }
-          },
-          {
-            "id": "9005ecb167842bba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/General Skills/Tarea 1 - General Skills/10 - ASCII Numbers.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "10 - ASCII Numbers"
-            }
-          },
-          {
-            "id": "69fadb9c3b7942dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "31 - Insp3ct0r.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "31 - Insp3ct0r"
-            }
-          },
-          {
-            "id": "1417108a016b4ff1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "32 - where are the robots.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "32 - where are the robots"
-            }
-          },
-          {
-            "id": "8d88d90aab2d532d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "33 - logon.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "33 - logon"
-            }
-          },
-          {
-            "id": "3936611dddf006d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "34 - dont-use-client-side.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "34 - dont-use-client-side"
-            }
-          },
-          {
-            "id": "06463b1e86d1613a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "35 - picobrowser.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "35 - picobrowser"
-            }
-          },
-          {
-            "id": "9c62affb46d9c9eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "36 - Client-side-again.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "36 - Client-side-again"
-            }
-          },
-          {
-            "id": "3fc0c1704380eccc",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.9"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
-            }
-          },
-          {
-            "id": "476b6b78c0479c99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "37 - GET aHEAD.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "37 - GET aHEAD"
-            }
-          },
-          {
-            "id": "328352a48345f97d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "38 - Cookies.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "38 - Cookies"
-            }
-          },
-          {
-            "id": "89273fad1b85252c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "39 - Scavenger Huntd.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "39 - Scavenger Huntd"
-            }
-          },
-          {
-            "id": "3cfb47b46938ce0e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "40 - Irish-Name-Repo 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "40 - Irish-Name-Repo 1"
-            }
-          },
-          {
-            "id": "5c63674db0a457de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "41 - More SQLi.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "41 - More SQLi"
-            }
-          },
-          {
-            "id": "76662077426c2160",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "40 - Irish-Name-Repo 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "40 - Irish-Name-Repo 1"
+              "title": "56  - WebDecode"
             }
           }
         ],
-        "currentTab": 28
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -558,24 +282,38 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "76662077426c2160",
+  "active": "bfb59d17c71ea8b7",
   "lastOpenFiles": [
-    "Pasted image 20250331130823.png",
+    "Pasted image 20250405212255.png",
+    "Pasted image 20250405212212.png",
+    "55 - Unminify.md",
+    "56  - WebDecode.md",
+    "Pasted image 20250405211240.png",
+    "54 - SQLiLite.md",
+    "Pasted image 20250405210908.png",
+    "53 - Secrets.md",
+    "Pasted image 20250405210111.png",
+    "52 - Roboto Sans.md",
+    "Pasted image 20250405205441.png",
+    "Pasted image 20250405204953.png",
+    "51 - Power Cookie.md",
+    "Pasted image 20250405204124.png",
+    "50 - Local Authority.md",
+    "49 - IntroToBurp.md",
+    "Pasted image 20250405201646.png",
+    "48 - Inspect HTML.md",
+    "Pasted image 20250405194042.png",
+    "44 - SOAP.md",
+    "47 - Includes.md",
+    "Pasted image 20250405193741.png",
+    "46 - Most Cookies.md",
+    "45 - Trickster.md",
+    "43 - MatchTheRegex.md",
     "42 - JaWT Scratchpad.md",
-    "41 - More SQLi.md",
     "40 - Irish-Name-Repo 1.md",
-    "Pasted image 20250331123608.png",
-    "Pasted image 20250331123136.png",
-    "Pasted image 20250331122928.png",
+    "41 - More SQLi.md",
     "39 - Scavenger Huntd.md",
-    "Pasted image 20250326131926.png",
-    "Pasted image 20250326131858.png",
-    "Pasted image 20250326131633.png",
-    "Pasted image 20250326130847.png",
-    "Pasted image 20250326130831.png",
     "38 - Cookies.md",
-    "Pasted image 20250326130420.png",
-    "Pasted image 20250326130358.png",
     "37 - GET aHEAD.md",
     "Sin nombre",
     "35 - picobrowser.md",
@@ -583,20 +321,6 @@
     "34 - dont-use-client-side.md",
     "33 - logon.md",
     "32 - where are the robots.md",
-    "31 - Insp3ct0r.md",
-    "picoCTF/General Skills/Tarea 1 - General Skills/10 - ASCII Numbers.md",
-    "picoCTF/General Skills/Tarea 1 - General Skills/09 - binhexa.md",
-    "picoCTF/General Skills/Tarea 1 - General Skills/08 - binary search.md",
-    "picoCTF/General Skills/Tarea 1 - General Skills/07 - collaborative development.md",
-    "picoCTF/General Skills/Tarea 1 - General Skills/06 - blame game.md",
-    "14 - Static ain't always noise.md",
-    "15 - useless.md",
-    "16 - Tab, Tab, Attack.md",
-    "17 - Magikarp Ground Mission.md",
-    "18 - repetitions.md",
-    "19 - Big zip.md",
-    "20 - First Find.md",
-    "Sin título.md",
     "picoCTF/General Skills/Tarea 1 - General Skills",
     "Sin título.canvas",
     "04",
