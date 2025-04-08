@@ -4,137 +4,81 @@
     "type": "split",
     "children": [
       {
-        "id": "fe84b71a4be6efc2",
+        "id": "7171e40609c11c7d",
         "type": "tabs",
         "children": [
           {
-            "id": "9eaabe3f0c28cdbe",
+            "id": "462770fd149cac36",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "48 - Inspect HTML.md",
+                "file": "57 - Glory of the Garden.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "48 - Inspect HTML"
+              "title": "57 - Glory of the Garden"
             }
           },
           {
-            "id": "8852532d3aa5070a",
+            "id": "8d4a5827208c2b65",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "49 - IntroToBurp.md",
+                "file": "58 - So Meta.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "49 - IntroToBurp"
+              "title": "58 - So Meta"
             }
           },
           {
-            "id": "b0319844a14bcf3d",
+            "id": "831303f1590b2fc1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "50 - Local Authority.md",
+                "file": "59 - shark on wire 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "50 - Local Authority"
+              "title": "59 - shark on wire 1"
             }
           },
           {
-            "id": "3097bfdacabe3911",
+            "id": "297e6f9cd37d4074",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "51 - Power Cookie.md",
+                "file": "60 - extensions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "51 - Power Cookie"
+              "title": "60 - extensions"
             }
           },
           {
-            "id": "89ab0f5d4403268e",
+            "id": "9fa6afd6212b2cbd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "52 - Roboto Sans.md",
+                "file": "61 - What Lies Within.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "52 - Roboto Sans"
-            }
-          },
-          {
-            "id": "8e032151567069b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "53 - Secrets.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "53 - Secrets"
-            }
-          },
-          {
-            "id": "2d60d4b35b5d67d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "54 - SQLiLite.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "54 - SQLiLite"
-            }
-          },
-          {
-            "id": "3ec90417fd8fdd21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "55 - Unminify.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "55 - Unminify"
-            }
-          },
-          {
-            "id": "bfb59d17c71ea8b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "56  - WebDecode.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "56  - WebDecode"
+              "title": "61 - What Lies Within"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -282,30 +226,35 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "bfb59d17c71ea8b7",
+  "active": "9fa6afd6212b2cbd",
   "lastOpenFiles": [
-    "Pasted image 20250405212255.png",
-    "Pasted image 20250405212212.png",
-    "55 - Unminify.md",
+    "Pasted image 20250407131144.png",
+    "Pasted image 20250407130201.png",
+    "Pasted image 20250407130118.png",
+    "60 - extensions.md",
+    "61 - What Lies Within.md",
+    "Pasted image 20250407124903.png",
+    "59 - shark on wire 1.md",
+    "Pasted image 20250407124256.png",
+    "Pasted image 20250407124202.png",
+    "Pasted image 20250407124131.png",
+    "Pasted image 20250407124109.png",
+    "Pasted image 20250407123931.png",
+    "58 - So Meta.md",
+    "Pasted image 20250407123205.png",
+    "Pasted image 20250407122651.png",
+    "57 - Glory of the Garden.md",
     "56  - WebDecode.md",
-    "Pasted image 20250405211240.png",
+    "55 - Unminify.md",
     "54 - SQLiLite.md",
-    "Pasted image 20250405210908.png",
     "53 - Secrets.md",
-    "Pasted image 20250405210111.png",
     "52 - Roboto Sans.md",
-    "Pasted image 20250405205441.png",
-    "Pasted image 20250405204953.png",
     "51 - Power Cookie.md",
-    "Pasted image 20250405204124.png",
     "50 - Local Authority.md",
     "49 - IntroToBurp.md",
-    "Pasted image 20250405201646.png",
     "48 - Inspect HTML.md",
-    "Pasted image 20250405194042.png",
     "44 - SOAP.md",
     "47 - Includes.md",
-    "Pasted image 20250405193741.png",
     "46 - Most Cookies.md",
     "45 - Trickster.md",
     "43 - MatchTheRegex.md",
@@ -316,11 +265,6 @@
     "38 - Cookies.md",
     "37 - GET aHEAD.md",
     "Sin nombre",
-    "35 - picobrowser.md",
-    "36 - Client-side-again.md",
-    "34 - dont-use-client-side.md",
-    "33 - logon.md",
-    "32 - where are the robots.md",
     "picoCTF/General Skills/Tarea 1 - General Skills",
     "Sin título.canvas",
     "04",
