@@ -52,6 +52,7 @@ b'picoCTF{sma11_N_n0_g0od_73918962}'
 >>>
 ```
 ![[Pasted image 20250521143038.png]]
+![[Pasted image 20250521144523.png]]
 
 
 * EJ:
