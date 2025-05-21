@@ -112,7 +112,7 @@ e - llave pública  65537 (exponente) 2 ^16+1
 
 Cálculos:
 n = p * q
-tn = (p - 1) * (q - 1)        - poe(e, -1, tn)
+tn = (p - 1) * (q - 1)        - pow(e, -1, tn)
 d = e ^-1 (mod tn)
 
 Cifrar (encriptar)
